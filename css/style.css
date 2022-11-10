@@ -1,3 +1,4 @@
+/* css prima section */
 
 .sfondo_section{
     background-color: #1abc9c;
@@ -6,4 +7,45 @@
 .ex_box{
     background-color: red;
     height: 350px;
+}
+
+/* ---------- */
+
+/* css seconda section */
+
+
+.box_home{
+    background-color: #ba4b63;
+    height: 350px;
+}
+
+.box_cake{
+    background-color: #1ea4b6;
+    height: 350px;
+}
+
+.box_circo{
+    background-color: #140f0f;
+    height: 350px;
+}
+
+.box_game{
+    background-color: #1c83c1;
+    height: 350px;
+}
+
+.box_cassaforte{
+    background-color: #0e38b5;
+    height: 350px;
+}
+
+.box_sottomarino{
+    background-color: #ccb2a3; 
+    height: 350px;
+}
+
+.box_img{
+    background-color: yellow;
+    height: 250px;
+    width: 250px;
 }
