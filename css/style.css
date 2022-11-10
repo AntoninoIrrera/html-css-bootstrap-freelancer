@@ -65,4 +65,15 @@
     color: white;
 }
 
+.box_footer1{
+    background-color: purple;
+    height: 50px;
+}
+
+.box_footer2{
+    background-color: green;
+    height: 50px;
+}
+
+
 /* --------------- */
