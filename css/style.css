@@ -2,6 +2,7 @@
 
 .sfondo_section{
     background-color: #1abc9c;
+    color: white;
 }
 
 .ex_box{
@@ -49,3 +50,6 @@
     height: 250px;
     width: 250px;
 }
+
+/* ------------ */
+
