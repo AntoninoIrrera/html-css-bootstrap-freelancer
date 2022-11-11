@@ -17,10 +17,24 @@ header{
     color: white;
 }
 
-.ex_box{
-    background-color: red;
-    height: 350px;
+.img_misure{
+    width: 250px;
 }
+
+.riga_bianca{
+    border: 3px solid white;
+    border-radius: 25px;
+    
+}
+
+.fa-star{
+    font-size: 2rem;
+}
+
+.titolo_principale{
+    font-size: 3rem;
+}
+
 
 /* ---------- */
 
