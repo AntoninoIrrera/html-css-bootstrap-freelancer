@@ -96,15 +96,13 @@ header{
     color: white;
 }
 
-.box_footer1{
-    background-color: purple;
-    height: 50px;
+.verde_testo{
+    color: lightgreen;
 }
 
-.box_footer2{
-    background-color: green;
-    height: 50px;
+div.col-3>div.d-inline-block{
+    width: 40px;
+    height: 40px;
 }
-
 
 /* --------------- */
