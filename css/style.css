@@ -73,6 +73,17 @@ header{
 
 /* ------------ */
 
+/* css quarta section */
+
+    .form_about{
+        display: block;
+        border: none;
+        border-bottom: 1px solid black;
+        width: 100%;
+    }
+
+/* --------- */
+
 /* css footer */
 
 .section_footer{
